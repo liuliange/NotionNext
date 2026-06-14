@@ -4,12 +4,12 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2026-06-14', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://199909.com' },
-    { title: '快捷指令', url: 'https://www.binguo.net' }
+    { title: 'iPhone快捷指令', url: 'https://www.binguo.net' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -18,7 +18,7 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
+  HEO_HERO_TITLE_1: '分享资源',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: '199909.com',
   HEO_HERO_TITLE_4: '缤果',
